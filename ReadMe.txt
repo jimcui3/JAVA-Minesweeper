@@ -26,7 +26,5 @@ Known defects:
 In the very end, thanks to Prof. Xiang for teaching Java, to my classmate Alexhaoge who created this Github repository, and to my friend William3 for testing the game.
 
 P.S.如果您想访问我的同学们的成果，请点击以下链接：
-
-P.S. If you want to see the projects of my classmates, please click the following link:
-
+If you want to see the projects of my classmates, please click the following link:
 https://github.com/NKUSMSJAVA/JAVA2760-
