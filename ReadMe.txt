@@ -29,4 +29,4 @@ P.S.如果您想访问我的同学们的成果，请点击以下链接：
 
 P.S. If you want to see the projects of my classmates, please click the following link:
 
-[https://github.com/NKUSMSJAVA/JAVA2760-](https://github.com/NKUSMSJAVA/JAVA2760-)
+https://github.com/NKUSMSJAVA/JAVA2760-
